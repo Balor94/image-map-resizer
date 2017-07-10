@@ -128,8 +128,8 @@
     }
 
 
-    if('jQuery' in window) {
-        jQuery.fn.imageMapResize = function $imageMapResizeF(){
+    if('$' in window) {
+        $.fn.imageMapResize = function $imageMapResizeF(){
             return this.filter('map').each(scaleImageMap).end();
         };
     }
