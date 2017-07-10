@@ -1,22 +1,16 @@
 {
-  "name": "image-map-resizer",
+  "name": "image-map-resizer-balor",
   "version": "1.0.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidjbradshaw/image-map-resizer.git"
+    "url": "https://github.com/Balor94/image-map-resizer.git"
   },
-  "maintainers": [
-    {
-      "name": "David J. Bradshaw",
-      "email": "dave@bradshaw.net"
-    }
-  ],
   "description": "Make the HTML image map responsive, so the map scales with the image",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidjbradshaw/image-map-resizer.git"
+    "url": "https://github.com/Balor94/image-map-resizer.git"
   },
-  "github": "https://github.com/davidjbradshaw/image-map-resizer",
+  "github": "https://github.com/Balor94/image-map-resizer",
   "main": "js/imageMapResizer.min.js",
   "dependencies": {},
   "devDependencies": {
